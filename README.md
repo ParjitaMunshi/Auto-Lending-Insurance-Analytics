@@ -35,7 +35,7 @@ For Auto Lenders:
 ✔️ Introduce flexible repayment options to reduce delinquencies.
 ✔️ Develop secured auto loans for subprime borrowers with risk-mitigation measures.
 
-🛠# Future Enhancements
+# Future Enhancements
 Incorporate real-time macroeconomic indicators to refine predictions.
 Expand analysis with deep learning models for risk prediction.
 Pilot telematics-based policies and measure their impact.
